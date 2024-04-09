@@ -1,3 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
+using MathGame;
 
-Console.WriteLine("Hello, World!");
+MyGame.PlayGame();
